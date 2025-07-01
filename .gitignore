@@ -1,0 +1,8 @@
+.env
+venv_voice_id/
+demucs_output/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store

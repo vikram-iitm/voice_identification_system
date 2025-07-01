@@ -1,0 +1,30 @@
+Audio File: Audio 1.WAV
+  - Identified as Salesperson: EnrolledPerson
+  - Timestamp: ~672.50 seconds
+  - Similarity: 0.6907
+  - Processing Time: 10.35 seconds
+
+Audio File: Audio 2.WAV
+  - Identified as Salesperson: EnrolledPerson
+  - Timestamp: ~285.00 seconds
+  - Similarity: 0.5548
+  - Processing Time: 8.81 seconds
+
+Audio File: Audio 3.WAV
+  - Identified as Salesperson: EnrolledPerson
+  - Timestamp: ~335.00 seconds
+  - Similarity: 0.5665
+  - Processing Time: 7.79 seconds
+
+Audio File: Audio 4.WAV
+  - Identified as Salesperson: EnrolledPerson
+  - Timestamp: ~2697.50 seconds
+  - Similarity: 0.6084
+  - Processing Time: 20.65 seconds
+
+Audio File: Audio 5.WAV
+  - Identified as Salesperson: EnrolledPerson
+  - Timestamp: ~42.50 seconds
+  - Similarity: 0.6147
+  - Processing Time: 5.41 seconds
+
